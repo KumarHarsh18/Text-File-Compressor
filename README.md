@@ -4,20 +4,20 @@ A simple and efficient **text file compressor** based on the **Huffman Coding** 
 
 ---
 
-## 🧠 Algorithm
+##  Algorithm
 
 This compressor uses **Huffman Coding**, a lossless data compression algorithm that assigns shorter binary codes to more frequent characters, reducing the overall file size.
 
 ---
 
-## 🛠 Requirements
+##  Requirements
 
 - C++17 or higher
 - A terminal or command-line interface
 
 ---
 
-## 📦 How to Use?
+##  How to Use?
 
 1. **Open a terminal** at the directory where `Huffman.cpp` is located.
 
