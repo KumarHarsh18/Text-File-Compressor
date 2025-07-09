@@ -1,14 +1,27 @@
-# Text-File-Compressor
-C++ project for compressing text files using Huffman Coding Algorithm
-Text File Compressor
-A text file compressor based on huffman coding algorithm.
+# Text File Compressor
 
-Requirements:
-C++17 compiler or a higher version of it must be installed on the system.
+A simple and efficient **text file compressor** based on the **Huffman Coding** algorithm, written in C++.
 
-How to Use?
-Open a terminal at the location where Huffman.cpp is saved.
-Type the following commands in the terminal:
-g++ Huffman.cpp -o main
-./Huffman.exe inputfile_name outputfile_name
-Replace inputfile_name and outputfile_name with your Input and Output file respectively.
+---
+
+## 🧠 Algorithm
+
+This compressor uses **Huffman Coding**, a lossless data compression algorithm that assigns shorter binary codes to more frequent characters, reducing the overall file size.
+
+---
+
+## 🛠 Requirements
+
+- C++17 or higher
+- A terminal or command-line interface
+
+---
+
+## 📦 How to Use?
+
+1. **Open a terminal** at the directory where `Huffman.cpp` is located.
+
+2. **Compile the program**:
+
+   ```bash
+   g++ Huffman.cpp -o main
