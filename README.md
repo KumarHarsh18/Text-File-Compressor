@@ -25,3 +25,4 @@ This compressor uses **Huffman Coding**, a lossless data compression algorithm t
 
    ```bash
    g++ Huffman.cpp -o main
+   ./Huffman.exe inputfile_name outputfile_name
